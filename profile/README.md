@@ -1,24 +1,23 @@
-# Racecraft Lab
+<p align="center">
+  <img src="./assets/racecraft-logo.svg" alt="Racecraft Lab" width="100%" />
+</p>
 
-AI-augmented development, documented in public.
+<p align="center"><strong>AI-augmented development, documented in public.</strong></p>
 
 Racecraft Lab is the technical innovation lab of Racecraft Systems. We build tools, systems, and public writing around one question:
 
 > How do technical teams use AI agents without accumulating verification debt?
 
-The answer we are testing is not "better prompts." It is governed, spec-driven engineering: clear requirements, bounded agents, explicit review gates, human ownership, operational visibility, and honest retrospectives.
+Our answer is governed, spec-driven engineering: clear requirements, bounded agents, explicit review gates, human ownership, operational visibility, and honest retrospectives.
 
 ## The Racecraft Platform
 
-Racecraft is a platform for agentic software work, developed through real products instead of slideware.
+Racecraft is a platform for agentic software work, developed through real products instead of slideware:
 
-| Layer | Artifacts | Purpose |
-|---|---|---|
-| Methodology | Spec-driven workflows, runbooks, Lab Notes | Turn AI assistance into repeatable engineering practice |
-| Developer workflow | Public and private Racecraft plugins | Package planning, review, research, and automation patterns |
-| Control plane | Mission Control, HAL, OpenClaw integration work | Coordinate agents, tasks, reviews, cost, and operational state |
-| Product lines | FocusEngine, Racecraft Lab, GTO90 | Prove the methodology on real Mac, web, and creative software |
-| Knowledge layer | Obsidian, QMD, research notes | Convert raw work into reusable public thinking |
+- **Methodology:** specs, runbooks, Lab Notes, and review gates that turn AI assistance into repeatable engineering practice.
+- **Developer workflow:** public and private Racecraft plugins that package planning, review, research, and automation patterns.
+- **Control plane:** Mission Control, HAL, and OpenClaw integration work for coordinating agents, tasks, cost, and operational state.
+- **Product lines:** FocusEngine first, then Racecraft Lab and GTO90, proving the method on real Mac, web, and creative software.
 
 Some platform work stays private while it is hardened. The public repositories here are the visible edge of the lab: plugins, docs, forks, and experiments that make the method inspectable.
 
@@ -31,19 +30,13 @@ Some platform work stays private while it is hardened. The public repositories h
 
 ## What We Publish
 
-- Verification debt: the gap between AI code generation speed and human validation capacity.
-- Spec-driven development vs. vibe coding.
-- Agent orchestration, review gates, and operator-controlled automation.
-- Ethical AI for creative software: AI assists workflows; human artists create the work.
-- AWS full stack AI and infrastructure patterns for gaming, music, and interactive products.
-- Build-in-public retrospectives, including failures, tradeoffs, costs, and course corrections.
+We write about verification debt, spec-driven development, agent orchestration, ethical AI for creative software, AWS full stack AI, and the practical tradeoffs that show up when AI agents touch real projects.
 
 ## Principles
 
 - Proof before pitch.
 - Specs before code.
 - Human ownership over AI output.
-- Public artifacts over private claims.
 - Failures are data.
 - Tools change; governed methodology should survive the churn.
 
