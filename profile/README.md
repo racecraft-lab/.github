@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/racecraft-logo.svg" alt="Racecraft Lab" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/racecraft-logo-light.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/racecraft-logo.svg" />
+    <img src="./assets/racecraft-logo.svg" alt="Racecraft Lab" width="100%" />
+  </picture>
 </p>
 
 <p align="center"><strong>AI-augmented development, documented in public.</strong></p>
