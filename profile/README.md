@@ -28,7 +28,7 @@ Some platform work stays private while it is hardened. The public repositories h
 ## Public Work
 
 - [racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) - open plugins and skills for agentic development workflows.
-- [mission-control](https://github.com/racecraft-lab/mission-control) - fork-based experiments in AI agent orchestration, task routing, review states, and resource governance.
+- [paddock](https://github.com/racecraft-lab/paddock) - AI software factory control plane for experiments in AI agent orchestration, task routing, review states, and resource governance.
 - [openclaw](https://github.com/racecraft-lab/openclaw) - OpenClaw-facing experiments for personal AI assistant infrastructure.
 - [docs](https://github.com/racecraft-lab/docs) - documentation work connected to OpenClaw and the broader lab stack.
 
