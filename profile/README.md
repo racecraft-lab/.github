@@ -6,46 +6,20 @@
   </picture>
 </p>
 
-<p align="center"><strong>AI-augmented development, documented in public.</strong></p>
+<p align="center"><strong>Building agent tools in the open, so people stay in charge of their AI agents.</strong></p>
 
-Racecraft Lab is the technical innovation lab of Racecraft Systems. We build tools, systems, and public writing around one question:
+Racecraft Lab is where I build the tools I need to finish GTO90, a music-reactive racing game that got too big for one person. AI agents now write code faster than I can check it. The tools here are how I keep up with them.
 
-> How do technical teams use AI agents without accumulating verification debt?
+## What's here
 
-Our answer is governed, spec-driven engineering: clear requirements, bounded agents, explicit review gates, human ownership, operational visibility, and honest retrospectives.
+- **[racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public)**: open-source plugins for Claude Code and Codex. SpecKit Pro turns a spec into reviewed, tested agent work. typesafe-jev gives agents a decision model they can call for typed judgments.
+- **[splash-evals](https://github.com/racecraft-lab/splash-evals)**: local evaluations of Splash models against dated frontier results.
 
-## The Racecraft Platform
+## What's next
 
-Racecraft is a platform for agentic software work, developed through real products instead of slideware:
+**Paddock**: a control room for AI agents, where you're the race engineer. It's being designed now and will be open source. There's nothing to install yet.
 
-- **Methodology:** specs, runbooks, Lab Notes, and review gates that turn AI assistance into repeatable engineering practice.
-- **Developer workflow:** public and private Racecraft plugins that package planning, review, research, and automation patterns.
-- **Control plane:** Mission Control, HAL, and OpenClaw integration work for coordinating agents, tasks, cost, and operational state.
-- **Product lines:** FocusEngine first, then Racecraft Lab and GTO90, proving the method on real Mac, web, and creative software.
+## Follow along
 
-Some platform work stays private while it is hardened. The public repositories here are the visible edge of the lab: plugins, docs, forks, and experiments that make the method inspectable.
-
-## Public Work
-
-- [racecraft-plugins-public](https://github.com/racecraft-lab/racecraft-plugins-public) - open plugins and skills for agentic development workflows.
-- [paddock](https://github.com/racecraft-lab/paddock) - AI software factory control plane for experiments in AI agent orchestration, task routing, review states, and resource governance.
-- [openclaw](https://github.com/racecraft-lab/openclaw) - OpenClaw-facing experiments for personal AI assistant infrastructure.
-- [docs](https://github.com/racecraft-lab/docs) - documentation work connected to OpenClaw and the broader lab stack.
-
-## What We Publish
-
-We write about verification debt, spec-driven development, agent orchestration, ethical AI for creative software, AWS full stack AI, and the practical tradeoffs that show up when AI agents touch real projects.
-
-## Principles
-
-- Proof before pitch.
-- Specs before code.
-- Human ownership over AI output.
-- Failures are data.
-- Tools change; governed methodology should survive the churn.
-
-## Follow Along
-
-If you are building with AI agents and care about reliability, traceability, and creative integrity, this is the lab notebook.
-
-Watch the public repositories, read the docs, and follow the work as it moves from private hardening to public release.
+- LinkedIn: [linkedin.com/in/fgabelmannjr](https://www.linkedin.com/in/fgabelmannjr)
+- X: [@fgabelmannjr](https://x.com/fgabelmannjr)
